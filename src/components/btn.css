@@ -1,0 +1,14 @@
+.addbtn {
+    color: black;
+    margin: 1rem;
+    background-color: aquamarine;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.clearbtn {
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: gray;
+    color: black;
+}
